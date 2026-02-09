@@ -8,3 +8,4 @@ def login(user, password):
     # SQL Injection Risk![[3](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEkJktvpUouLhA7uFAifTRn-ZhjO6IVdxmedsT42hcALWYIpvnEcSmRKVMzC-zOdPc7IdW5gKFmMzerKxS8yLGJw1yqwcbfOLazSzLmMLAgSaNlIlOAVvuYbX5qCdPo0sZF6xRHo0k%3D)]
     query = f"SELECT * FROM users WHERE name = {user}"
     print(query)
+#testing ai at the top
