@@ -9,3 +9,4 @@ def login(user, password):
     query = f"SELECT * FROM users WHERE name = {user}"
     print(query)
 #testing ai at the top
+add print(password)
