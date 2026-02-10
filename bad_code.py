@@ -9,5 +9,8 @@ def login(user, password):
     query = f"SELECT * FROM users WHERE name = {user}"
     print(query)
 #testing ai at the top
+Gaganrajulapati-patch-4
+print("AI CHECK THIS LINE")
 # HARDCODED SECRET (The AI should scream at this)
 aws_secret_key = "AKIAIMNOJVHFGR7474"
+main
